@@ -1,9 +1,9 @@
 /*
   Wireless Joystic Remote Controller With GUI
 
-  Sends the spped and Dirction values of Joystic input to reciever.
+  Sends the speed and Dirction values of Joystic input to reciever.
   Also displays information like speed, Battery status, Connection Status, etc.
-  on GUI
+  on GUI.
 
   created 6 Sep 2021
   by Alhad Manure
